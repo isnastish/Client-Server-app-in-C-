@@ -7,7 +7,7 @@ using windows sockets.
 
 Useful links: [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/split/index.html)
 
-To test the program on the current state put this into your `launch.json` file.
+To test a program in a current state put this into your `launch.json` file.
 
 ```json
     {
