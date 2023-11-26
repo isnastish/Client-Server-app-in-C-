@@ -3,7 +3,7 @@
 The goal of this project is to write simple client-server application in C++ 
 using windows sockets. 
 
-**NOTE:** The project is still depply in development.
+**NOTE:** The project is still deeply in development.
 
 Useful links: [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/split/index.html)
 
