@@ -1,14 +1,5 @@
-# Client-Server application in C++
+## Client-Server application in C++
 
-```json
-{
-  args[
-        "localhost",
-        "127.0.0.1",
-        "www.google.com",
-        "2001:db8:63b3:1::3490",
-        "10.12.110.57"
-    ""
-  ]
-}
-```
+The goal of this project is to write simple client-server application in C++ using windows sockets, 
+and send messages between them.
+It's still deeply in development.
